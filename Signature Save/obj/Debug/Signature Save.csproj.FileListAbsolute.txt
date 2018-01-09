@@ -1,0 +1,12 @@
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\bin\Debug\Signature Save.exe.config
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\bin\Debug\Signature Save.exe
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\bin\Debug\Signature Save.pdb
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\bin\Debug\Microsoft.Ink.dll
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\bin\Debug\Microsoft.Ink.xml
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\obj\Debug\Signature Save.csprojResolveAssemblyReference.cache
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\obj\Debug\Signature_Save.Form1.resources
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\obj\Debug\Signature_Save.Properties.Resources.resources
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\obj\Debug\Signature Save.csproj.GenerateResource.Cache
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\obj\Debug\Signature Save.exe
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\obj\Debug\Signature Save.pdb
+C:\Users\-\Documents\Visual Studio 2015\Projects\Signature Save\Signature Save\bin\Debug\DocX.dll
